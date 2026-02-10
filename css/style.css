@@ -115,15 +115,16 @@ main {
 }
 
 .footer-column a {
-    color: #cccccc;
+    color: #fff;
     text-decoration: none;
     transition: color 0.3s;
 }
 .footer-bottom a{
-  color: #cccccc;
+  color: #fff;
 }
 .footer-bottom a:hover{
   color: #fff;
+  text-decoration: underline;
 }
 
 .footer-column a:hover {
