@@ -119,6 +119,12 @@ main {
     text-decoration: none;
     transition: color 0.3s;
 }
+.footer-bottom a{
+  color: #cccccc;
+}
+.footer-bottom a:hover{
+  color: #fff;
+}
 
 .footer-column a:hover {
     color: #ffffff;
@@ -131,7 +137,7 @@ main {
     padding-top: 20px;
     text-align: center;
     font-size: 0.85rem;
-    color: #888;
+    color: #ffffff;
 }
 
 .map-container {
@@ -145,7 +151,7 @@ main {
 .btn {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #c17a5c;
+  background-color: #844e39;
   color: #ffffff;
   border-radius: 24px;
   font-size: 14px;
@@ -161,8 +167,8 @@ main {
 
 .btn-light {
   background-color: #ffffff;
-  color: #c17a5c;
-  border: 1px solid #c17a5c;
+  color: #844e39;
+  border: 1px solid #844e39;
 }
 
 .btn-full {
@@ -267,7 +273,7 @@ main {
 
 .price {
   font-weight: bold;
-  color: #c17a5c;
+  color: #844e39;
   font-size: 14px;
 }
 
